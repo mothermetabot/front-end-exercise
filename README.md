@@ -6,6 +6,20 @@ To complete these exercises you will need Git installed on your computer and a G
 
 Please read all the document before start the exercises.
 
+### Overview ###
+
+For this exercise, you're going to build a navigation menu application using HTML, CSS and Javascript.
+
+You may also use any open source libraries as you see fit. Use discretion when using external libraries or tools to complete the exercise. We are interested in your practical knowledge of HTML, CSS and JavaScript, not your ability to use plugins, frameworks or libraries.
+
+You will be using Git for source control.
+
+Following the completion of the application, you'll answer a few questions about the work you just completed. Please allow approximately 3 hours for this exercise. It should take you about 2 hours to complete the programming exercise and another hour to answer the follow up questions.
+
+When you are done the exercise, commit all your work in GitHub and push it up to your GitHub fork. You'll be required to send an email with the link to your work immediately after completion.
+
+Do not create a pull request or try to merge into the exercises repository.
+
 ### Setup ###
 
 Follow the points listed below to create a minimal development environment and begin with the exercises.
@@ -13,8 +27,6 @@ Follow the points listed below to create a minimal development environment and b
 * Download and install Git on your computer and initialize with your GitHub account.
 * Download and install any IDE and tools of your choice.
 * Fork and clone the [Front End Developer Exercises](https://github.com/estebanspina/dev-exercises-ui) repository.
-
-### The Contents Of This Project ###
 
 The initial project includes a recommended files and directories structure. You can change, add or remove files and directories if you think it will be useful to you.
 
@@ -33,7 +45,7 @@ Some of the directories listed above do not exist in the initial structure becau
 
 ### Main Tasks ###
 
-The goal of this exercise is for us to assess your approach to developing the HTML, CSS and JavaScript for a full navigation menu that includes:
+Create a HTML, CSS and JavaScript navigation menu that includes:
 
 * Five main tabs (main, about us, services, blog and contact us).
 * The services tab must have a drop down submenu.
@@ -42,16 +54,6 @@ The goal of this exercise is for us to assess your approach to developing the HT
     * From 320px (mobile).
     * From 1024px (tablet).
     * From 1366px (desktop) and above.
-
-Use discretion when using external libraries or tools to complete the exercise. We are interested in your practical knowledge of HTML, CSS and JavaScript, not your ability to use plugins, frameworks or libraries.
-
-You will be using Git for source control.
-
-Following the completion of the application, you'll answer a few questions about the work you just completed. Please allow approximately 3 hours for this exercise. It should take you about 2 hours to complete the programming exercise and another hour to answer the follow up questions.
-
-When you are done the exercise, commit all your work in GitHub and push it up to your GitHub fork. You'll be required to send an email with the link to your work immediately after completion.
-
-Do not create a pull request or try to merge into the exercises repository.
 
 ### Secondary Or Bonus Task ###
 
