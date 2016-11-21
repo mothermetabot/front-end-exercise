@@ -2,15 +2,13 @@
 
 We're constantly on the lookout for talented front-end developers to join our teams. Not only does that mean we're looking for a solid understanding of the HTML, CSS and JavaScript language, but also their practical application with respect to how browsers work today.
 
-To complete these exercises you will need Git installed on your computer and a GitHub account. If you don't have one already, please go to [GitHub](https://github.com/) and sign up for your free account. You will also need a working development environment, including a code editor for HTML, CSS and JavaScript development.
-
 Please read all the document before start the exercises.
 
 ### Overview ###
 
-For this exercise, you're going to build a navigation menu application using HTML, CSS and Javascript.
+To complete these exercises you will need Git installed on your computer and a GitHub account. If you don't have one already, please go to [GitHub](https://github.com/) and sign up for your free account. You will also need a working development environment, including a code editor of your choice.
 
-You may also use any open source libraries as you see fit. Use discretion when using external libraries or tools to complete the exercise. We are interested in your practical knowledge of HTML, CSS and JavaScript, not your ability to use plugins, frameworks or libraries.
+You may use any open source libraries as you see fit. Use discretion when using external libraries or tools to complete the exercise. We are interested in your practical knowledge of HTML, CSS and JavaScript, not your ability to use plugins, frameworks or libraries.
 
 You will be using Git for source control.
 
