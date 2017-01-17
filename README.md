@@ -57,7 +57,7 @@ Create a HTML, CSS and JavaScript navigation menu that includes:
 
 This is an optional task and will be taken as a bonus.
 
-Modify your application to take the menu and social configuration and contents from a JSON file.
+Modify your application to take the menu, social configuration and other contents from a JSON file.
 
 ### Questions ###
 
