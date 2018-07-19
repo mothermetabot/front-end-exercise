@@ -65,23 +65,27 @@ Please answer each of the following questions within the README.md file of your 
 
 Q: Which browser would you prefer we test this in ?
 
-A: 
+A: I would prefer we test this in the most widely used browser, which seems to be Google Chrome according to the following wikipedia article: https://en.wikipedia.org/wiki/Usage_share_of_web_browsers
+However, ideally it would be best to test this webpage in as many different browsers as possible, to ensure universal compatibility.
 
 Q: How long did you work on this programming exercise for ?
 
-A: 
+A: I worked on this project for about 2-3 hours.
 
 Q: What websites did you use to help you complete this exercise (please provide links) ?
 
-A: 
+A: I utilized the following websites: 
+	https://www.w3schools.com - to help me get started in terms of building up the HTML structure
+	https://fontawesome.com -  for high quality icons
+	www.stackoverflow.com - for generic javascript and css questions
 
 Q: If you had more time, how would you improve your implementation ?
 
-A: 
+A: I would probably try to make my project look more visually appealing (design & colors).
 
 Q: Anything else you'd like us to know ?
 
-A: 
+A: I think this was a very interesting test, as it helped me to implement a navbar without utilizing a built-in plugin.
 
 ### MIT License ###
 ##### Copyright (c) 2016 Esteban Spina #####
